@@ -569,7 +569,6 @@ a{
 .testimonials-right {
     position: relative;
     width: 100%;
-    height: 380px; 
     display: flex;
     align-items: flex-start;
     padding-left:35px;
